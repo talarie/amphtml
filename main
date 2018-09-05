@@ -25,6 +25,6 @@
     <amp-youtube
     data-videoid="DljStQsY80I"
     layout="responsive"
-    width="480" height="270" data-param-rel="0"></amp-youtube>
+    width="480" height="270"></amp-youtube>
   </body>
 </html>
