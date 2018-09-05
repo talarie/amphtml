@@ -22,5 +22,9 @@
   <body>
     <h1>Welcome to the mobile web</h1>
     <amp-img src="https://cdn-images-1.medium.com/max/1600/1*kTlnqyeRGHjV2pGZ6ZF-dA.jpeg" alt="Welcome" height="400" width="500"></amp-img>
+    <amp-youtube
+    data-videoid="DljStQsY80I"
+    layout="responsive"
+    width="480" height="270"></amp-youtube>
   </body>
 </html>
